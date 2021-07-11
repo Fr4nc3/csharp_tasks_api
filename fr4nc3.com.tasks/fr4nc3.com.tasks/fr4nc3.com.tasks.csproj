@@ -22,7 +22,7 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <!-- Disable warning: Missing XML comment for publicly visible type or member 'Type_or_Member'-->
     <NoWarn>$(NoWarn);1591</NoWarn>
-    <UserSecretsId>58141d1e-6db2-4529-92c8-a94854fe52ce</UserSecretsId>
+    <UserSecretsId>GUID</UserSecretsId>
 
   </PropertyGroup>
 
